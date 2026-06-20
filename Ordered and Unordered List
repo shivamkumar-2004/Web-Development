@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Movie List</title>
+</head>
+<body>
+
+<h1>The List Element </h1>
+<ul>
+    <li>Inception</li>
+    <li>The Dark Knight</li>
+    <li>Interstellar</li>
+    <li>Parasite</li>
+    <li>The Godfather</li>
+</ul>
+
+<ol>
+    <li>Inception</li>
+    <li>The Dark Knight</li>
+    <li>Interstellar</li>
+    <li>Parasite</li>
+    <li>The Godfather</li>
+</ol>
+    
+
+
+</body>
+</html>
